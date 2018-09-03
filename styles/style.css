@@ -1,0 +1,64 @@
+h1{
+	font-family: 'Josefin Sans', sans-serif;
+	background-color: black;
+	background-size: 200px;
+	padding: 0, 0,0,0;
+	color: white;
+}
+body {
+	color: solid green;
+	font-size: 20px;
+	text-align: center;
+	margin:0;
+	background-color:black;
+}
+p {
+	font-family: font-family: 'Pacifico', cursive;
+  color: solid blue;
+  width: 1300px;
+  font-size: 20px;
+  height: 200px;
+  padding:0,0;
+}
+
+#header1 {
+	color: #3FBFBF;
+	font-size: 20px;
+	text-align: left;
+	border-color: #3FBFBF;
+	padding-left: 100px;
+}
+img{
+	border: 10px solid black;
+	display: block;
+	margin: 0 auto;
+}
+#header2{
+	color: black;
+}
+#p1 {
+	background-color: #3FBFBF;
+	height: 200px;
+}
+
+#p2 {
+	background-color:blue;
+	height: 500px;
+	background-image: url(https://windows-cdn.softpedia.com/screenshots/Windows7-Theme-Screensaver_1.png);
+}
+#p3 {
+	background-color: orange;
+	height: 200px;
+}
+#p4 {
+	background-color: pink;
+	height: 200px;
+}
+#p5 {
+	background-color: indigo;
+	height: 200px;
+}
+#p6 {
+	background-color: white;
+	height: 200px;
+}
